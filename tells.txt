@@ -1,1 +1,1 @@
-name = GURUNAMBIARYAN
+name = GURUARYAN
